@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 230b1aeac23a86649bc3a774eba08e22
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _backgroundMusic: {fileID: 8300000, guid: 2c48288dcb8a1e24a8267734cbe2c568, type: 3}
+  - _bossLoop: {instanceID: 0}
+  - _bossTwo: {instanceID: 0}
+  - _boom: {instanceID: 0}
+  - _playerDamage: {instanceID: 0}
+  - _chargingsnail: {instanceID: 0}
+  - enemyHurt: {instanceID: 0}
+  - _abilityClickSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
